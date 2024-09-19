@@ -20,27 +20,39 @@ The total billing amount is ₹19,04,32,682, helping track revenue per patient.
 •	Bed Occupancy: Visualizes patient distribution:
 
 o	Private: 3.6K
+
 o	General: 2.4K
+
 o	ICU: 1.2K
 
 •	Diagnosis-wise Patient Count: Shows the most common diagnoses among patients:
 
 o	Viral Infection: 2.00K patients
+
 o	Flu: 1.72K patients
+
 o	Malaria: 1.43K patients
+
 o	Typhoid: 1.15K patients
+
 o	Pneumonia: 0.57K patients
+
 o	Fracture: 0.29K patients
 
 •	Doctor Feedback Volume: Represents feedback received by each doctor:
+
 o	Tejas Saxena, Ravi D, Niki Sharma, Naresh Goyenka, Jay Sinha, Jaya Yaadav, Mark Joy each received 1.02K feedback.
 
 •	Billing Amount vs. Insurance Health Amount: Compares billing with insurance claims for medical procedures:
 
 o	CT Scan: ₹63M billing, ₹58M insurance
+
 o	Ultrasound: ₹52M billing, ₹48M insurance
+
 o	MRI: ₹53M billing, ₹48M insurance
+
 o	Blood Test: ₹11M billing, ₹5M insurance
+
 o	X-Ray: ₹5M billing, minimal insurance coverage
 
 •	Doctor Ratings: Highlights overall doctor performance with:
@@ -59,11 +71,15 @@ The "Work and Leads Workflow" dashboard at Purple Heron Hospitals provides actio
 
 •	Financial Insights: The comparison of Billing Amount vs Insurance Claims highlights significant revenue streams:
 
+
 o	CT Scan generated ₹63M in billing but saw ₹58M reimbursed through insurance, showing effective claim coverage.
+
 
 o	Procedures like Blood Tests (₹11M billed, ₹5M insurance) and X-Rays (₹5M billed, minimal insurance) show potential gaps in insurance coverage, prompting a review of insurance policies.
 
+
 Overall, this data-driven dashboard empowers hospital administrators to make informed decisions, improving hospital operational efficiency, patient care, and monitor financial management, leading to more strategic decision-making
+
 #HealthcareAnalytics #DataVisualization #PowerBI #DataDriven #DataScience #HealthcareManagement.
 
 
