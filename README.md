@@ -1,3 +1,5 @@
+# Purple-Heron-Hospital-Report-Analysis
+
 The "Work and Leads Workflow" dashboard at Purple Heron Hospitals provides a holistic view of critical operational data and comprehensive view of patient management data.
 Key insights include:•	Patient Journeys: Tracking admission, discharge, follow-up dates, and total billing.
 •	Bed Occupancy: Visualizes patient distribution across private, general, and ICU beds.
@@ -39,7 +41,7 @@ o	Procedures like Blood Tests (₹11M billed, ₹5M insurance) and X-Rays (₹5M
 
 Overall, this data-driven dashboard empowers hospital administrators to make informed decisions, improving hospital operational efficiency, patient care, and monitor financial management, leading to more strategic decision-making
 #HealthcareAnalytics #DataVisualization #PowerBI #DataDriven #DataScience #HealthcareManagement.
-# Purple-Heron-Hospital-Report-Analysis
+
 
 
 
